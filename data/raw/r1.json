@@ -1,0 +1,878 @@
+[
+  {
+    "Institution": "Arizona State University",
+    "Control": "Public",
+    "City": "Tempe[a]",
+    "State": "AZ"
+  },
+  {
+    "Institution": "Auburn University",
+    "Control": "Public",
+    "City": "Auburn",
+    "State": "AL"
+  },
+  {
+    "Institution": "Baylor University",
+    "Control": "Private (non-profit)",
+    "City": "Waco",
+    "State": "TX"
+  },
+  {
+    "Institution": "Binghamton University",
+    "Control": "Public",
+    "City": "Vestal[b]",
+    "State": "NY"
+  },
+  {
+    "Institution": "Boston College",
+    "Control": "Private (non-profit)",
+    "City": "Chestnut Hill",
+    "State": "MA"
+  },
+  {
+    "Institution": "Boston University",
+    "Control": "Private (non-profit)",
+    "City": "Boston",
+    "State": "MA"
+  },
+  {
+    "Institution": "Brandeis University",
+    "Control": "Private (non-profit)",
+    "City": "Waltham",
+    "State": "MA"
+  },
+  {
+    "Institution": "Brown University",
+    "Control": "Private (non-profit)",
+    "City": "Providence",
+    "State": "RI"
+  },
+  {
+    "Institution": "California Institute of Technology",
+    "Control": "Private (non-profit)",
+    "City": "Pasadena",
+    "State": "CA"
+  },
+  {
+    "Institution": "Carnegie Mellon University",
+    "Control": "Private (non-profit)",
+    "City": "Pittsburgh",
+    "State": "PA"
+  },
+  {
+    "Institution": "Case Western Reserve University",
+    "Control": "Private (non-profit)",
+    "City": "Cleveland",
+    "State": "OH"
+  },
+  {
+    "Institution": "Clemson University",
+    "Control": "Public",
+    "City": "Clemson",
+    "State": "SC"
+  },
+  {
+    "Institution": "Colorado School of Mines",
+    "Control": "Public",
+    "City": "Golden",
+    "State": "CO"
+  },
+  {
+    "Institution": "Colorado State University",
+    "Control": "Public",
+    "City": "Fort Collins",
+    "State": "CO"
+  },
+  {
+    "Institution": "Columbia University",
+    "Control": "Private (non-profit)",
+    "City": "New York City[c]",
+    "State": "NY"
+  },
+  {
+    "Institution": "Cornell University",
+    "Control": "Private (non-profit)",
+    "City": "Ithaca",
+    "State": "NY"
+  },
+  {
+    "Institution": "Dartmouth College",
+    "Control": "Private (non-profit)",
+    "City": "Hanover",
+    "State": "NH"
+  },
+  {
+    "Institution": "Drexel University",
+    "Control": "Private (non-profit)",
+    "City": "Philadelphia",
+    "State": "PA"
+  },
+  {
+    "Institution": "Duke University",
+    "Control": "Private (non-profit)",
+    "City": "Durham",
+    "State": "NC"
+  },
+  {
+    "Institution": "Emory University",
+    "Control": "Private (non-profit)",
+    "City": "Atlanta",
+    "State": "GA"
+  },
+  {
+    "Institution": "Florida International University",
+    "Control": "Public",
+    "City": "Miami[d]",
+    "State": "FL"
+  },
+  {
+    "Institution": "Florida State University",
+    "Control": "Public",
+    "City": "Tallahassee",
+    "State": "FL"
+  },
+  {
+    "Institution": "George Mason University",
+    "Control": "Public",
+    "City": "Fairfax[e]",
+    "State": "VA"
+  },
+  {
+    "Institution": "George Washington University",
+    "Control": "Private (non-profit)",
+    "City": "Washington, D.C.",
+    "State": "DC"
+  },
+  {
+    "Institution": "Georgetown University",
+    "Control": "Private (non-profit)",
+    "City": "Washington, D.C.",
+    "State": "DC"
+  },
+  {
+    "Institution": "Georgia Institute of Technology",
+    "Control": "Public",
+    "City": "Atlanta",
+    "State": "GA"
+  },
+  {
+    "Institution": "Georgia State University",
+    "Control": "Public",
+    "City": "Atlanta",
+    "State": "GA"
+  },
+  {
+    "Institution": "Graduate Center, CUNY",
+    "Control": "Public",
+    "City": "New York City[c]",
+    "State": "NY"
+  },
+  {
+    "Institution": "Harvard University",
+    "Control": "Private (non-profit)",
+    "City": "Cambridge",
+    "State": "MA"
+  },
+  {
+    "Institution": "Indiana University Bloomington",
+    "Control": "Public",
+    "City": "Bloomington",
+    "State": "IN"
+  },
+  {
+    "Institution": "Iowa State University",
+    "Control": "Public",
+    "City": "Ames",
+    "State": "IA"
+  },
+  {
+    "Institution": "Johns Hopkins University",
+    "Control": "Private (non-profit)",
+    "City": "Baltimore",
+    "State": "MD"
+  },
+  {
+    "Institution": "Kansas State University",
+    "Control": "Public",
+    "City": "Manhattan",
+    "State": "KS"
+  },
+  {
+    "Institution": "Kent State University",
+    "Control": "Public",
+    "City": "Kent",
+    "State": "OH"
+  },
+  {
+    "Institution": "Louisiana State University",
+    "Control": "Public",
+    "City": "Baton Rouge",
+    "State": "LA"
+  },
+  {
+    "Institution": "Massachusetts Institute of Technology",
+    "Control": "Private (non-profit)",
+    "City": "Cambridge",
+    "State": "MA"
+  },
+  {
+    "Institution": "Michigan State University",
+    "Control": "Public",
+    "City": "East Lansing",
+    "State": "MI"
+  },
+  {
+    "Institution": "Mississippi State University",
+    "Control": "Public",
+    "City": "Mississippi State",
+    "State": "MS"
+  },
+  {
+    "Institution": "Montana State University",
+    "Control": "Public",
+    "City": "Bozeman",
+    "State": "MT"
+  },
+  {
+    "Institution": "New Jersey Institute of Technology",
+    "Control": "Public",
+    "City": "Newark",
+    "State": "NJ"
+  },
+  {
+    "Institution": "New York University",
+    "Control": "Private (non-profit)",
+    "City": "New York City[c]",
+    "State": "NY"
+  },
+  {
+    "Institution": "North Carolina State University",
+    "Control": "Public",
+    "City": "Raleigh",
+    "State": "NC"
+  },
+  {
+    "Institution": "North Dakota State University",
+    "Control": "Public",
+    "City": "Fargo",
+    "State": "ND"
+  },
+  {
+    "Institution": "Northeastern University",
+    "Control": "Private (non-profit)",
+    "City": "Boston",
+    "State": "MA"
+  },
+  {
+    "Institution": "Northwestern University",
+    "Control": "Private (non-profit)",
+    "City": "Evanston",
+    "State": "IL"
+  },
+  {
+    "Institution": "Ohio State University",
+    "Control": "Public",
+    "City": "Columbus",
+    "State": "OH"
+  },
+  {
+    "Institution": "Ohio University",
+    "Control": "Public",
+    "City": "Athens",
+    "State": "OH"
+  },
+  {
+    "Institution": "Oklahoma State University–Stillwater",
+    "Control": "Public",
+    "City": "Stillwater",
+    "State": "OK"
+  },
+  {
+    "Institution": "Old Dominion University",
+    "Control": "Public",
+    "City": "Norfolk",
+    "State": "VA"
+  },
+  {
+    "Institution": "Oregon State University",
+    "Control": "Public",
+    "City": "Corvallis",
+    "State": "OR"
+  },
+  {
+    "Institution": "Pennsylvania State University",
+    "Control": "Public[f]",
+    "City": "University Park",
+    "State": "PA"
+  },
+  {
+    "Institution": "Princeton University",
+    "Control": "Private (non-profit)",
+    "City": "Princeton",
+    "State": "NJ"
+  },
+  {
+    "Institution": "Purdue University",
+    "Control": "Public",
+    "City": "West Lafayette",
+    "State": "IN"
+  },
+  {
+    "Institution": "Rensselaer Polytechnic Institute",
+    "Control": "Private (non-profit)",
+    "City": "Troy",
+    "State": "NY"
+  },
+  {
+    "Institution": "Rice University",
+    "Control": "Private (non-profit)",
+    "City": "Houston",
+    "State": "TX"
+  },
+  {
+    "Institution": "Rutgers University–New Brunswick",
+    "Control": "Public",
+    "City": "New Brunswick",
+    "State": "NJ"
+  },
+  {
+    "Institution": "Stanford University",
+    "Control": "Private (non-profit)",
+    "City": "Stanford",
+    "State": "CA"
+  },
+  {
+    "Institution": "Stony Brook University",
+    "Control": "Public",
+    "City": "Stony Brook",
+    "State": "NY"
+  },
+  {
+    "Institution": "Syracuse University",
+    "Control": "Private (non-profit)",
+    "City": "Syracuse",
+    "State": "NY"
+  },
+  {
+    "Institution": "Temple University",
+    "Control": "Public[f]",
+    "City": "Philadelphia",
+    "State": "PA"
+  },
+  {
+    "Institution": "Texas A&M University",
+    "Control": "Public",
+    "City": "College Station",
+    "State": "TX"
+  },
+  {
+    "Institution": "Texas Tech University",
+    "Control": "Public",
+    "City": "Lubbock",
+    "State": "TX"
+  },
+  {
+    "Institution": "Tufts University",
+    "Control": "Private (non-profit)",
+    "City": "Medford",
+    "State": "MA"
+  },
+  {
+    "Institution": "Tulane University",
+    "Control": "Private (non-profit)",
+    "City": "New Orleans",
+    "State": "LA"
+  },
+  {
+    "Institution": "University at Albany, SUNY",
+    "Control": "Public",
+    "City": "Albany",
+    "State": "NY"
+  },
+  {
+    "Institution": "University at Buffalo",
+    "Control": "Public",
+    "City": "Buffalo[g]",
+    "State": "NY"
+  },
+  {
+    "Institution": "University of Alabama",
+    "Control": "Public",
+    "City": "Tuscaloosa",
+    "State": "AL"
+  },
+  {
+    "Institution": "University of Alabama at Birmingham",
+    "Control": "Public",
+    "City": "Birmingham",
+    "State": "AL"
+  },
+  {
+    "Institution": "University of Alabama in Huntsville",
+    "Control": "Public",
+    "City": "Huntsville",
+    "State": "AL"
+  },
+  {
+    "Institution": "University of Arizona",
+    "Control": "Public",
+    "City": "Tucson",
+    "State": "AZ"
+  },
+  {
+    "Institution": "University of Arkansas",
+    "Control": "Public",
+    "City": "Fayetteville",
+    "State": "AR"
+  },
+  {
+    "Institution": "University of California, Berkeley",
+    "Control": "Public",
+    "City": "Berkeley",
+    "State": "CA"
+  },
+  {
+    "Institution": "University of California, Davis",
+    "Control": "Public",
+    "City": "Davis",
+    "State": "CA"
+  },
+  {
+    "Institution": "University of California, Irvine",
+    "Control": "Public",
+    "City": "Irvine",
+    "State": "CA"
+  },
+  {
+    "Institution": "University of California, Los Angeles",
+    "Control": "Public",
+    "City": "Los Angeles",
+    "State": "CA"
+  },
+  {
+    "Institution": "University of California, Riverside",
+    "Control": "Public",
+    "City": "Riverside",
+    "State": "CA"
+  },
+  {
+    "Institution": "University of California, San Diego",
+    "Control": "Public",
+    "City": "San Diego[h]",
+    "State": "CA"
+  },
+  {
+    "Institution": "University of California, Santa Barbara",
+    "Control": "Public",
+    "City": "Santa Barbara[i]",
+    "State": "CA"
+  },
+  {
+    "Institution": "University of California, Santa Cruz",
+    "Control": "Public",
+    "City": "Santa Cruz",
+    "State": "CA"
+  },
+  {
+    "Institution": "University of Central Florida",
+    "Control": "Public",
+    "City": "Orlando[j]",
+    "State": "FL"
+  },
+  {
+    "Institution": "University of Chicago",
+    "Control": "Private (non-profit)",
+    "City": "Chicago",
+    "State": "IL"
+  },
+  {
+    "Institution": "University of Cincinnati",
+    "Control": "Public",
+    "City": "Cincinnati",
+    "State": "OH"
+  },
+  {
+    "Institution": "University of Colorado Boulder",
+    "Control": "Public",
+    "City": "Boulder",
+    "State": "CO"
+  },
+  {
+    "Institution": "University of Colorado Denver",
+    "Control": "Public",
+    "City": "Denver",
+    "State": "CO"
+  },
+  {
+    "Institution": "University of Connecticut",
+    "Control": "Public",
+    "City": "Storrs",
+    "State": "CT"
+  },
+  {
+    "Institution": "University of Delaware",
+    "Control": "Public[k]",
+    "City": "Newark",
+    "State": "DE"
+  },
+  {
+    "Institution": "University of Denver",
+    "Control": "Private (non-profit)",
+    "City": "Denver",
+    "State": "CO"
+  },
+  {
+    "Institution": "University of Florida",
+    "Control": "Public",
+    "City": "Gainesville",
+    "State": "FL"
+  },
+  {
+    "Institution": "University of Georgia",
+    "Control": "Public",
+    "City": "Athens",
+    "State": "GA"
+  },
+  {
+    "Institution": "University of Hawaii at Manoa",
+    "Control": "Public",
+    "City": "Honolulu",
+    "State": "HI"
+  },
+  {
+    "Institution": "University of Houston",
+    "Control": "Public",
+    "City": "Houston",
+    "State": "TX"
+  },
+  {
+    "Institution": "University of Illinois Chicago",
+    "Control": "Public",
+    "City": "Chicago",
+    "State": "IL"
+  },
+  {
+    "Institution": "University of Illinois Urbana-Champaign",
+    "Control": "Public",
+    "City": "Champaign/Urbana[l]",
+    "State": "IL"
+  },
+  {
+    "Institution": "University of Iowa",
+    "Control": "Public",
+    "City": "Iowa City",
+    "State": "IA"
+  },
+  {
+    "Institution": "University of Kansas",
+    "Control": "Public",
+    "City": "Lawrence",
+    "State": "KS"
+  },
+  {
+    "Institution": "University of Kentucky",
+    "Control": "Public",
+    "City": "Lexington",
+    "State": "KY"
+  },
+  {
+    "Institution": "University of Louisiana at Lafayette",
+    "Control": "Public",
+    "City": "Lafayette",
+    "State": "LA"
+  },
+  {
+    "Institution": "University of Louisville",
+    "Control": "Public",
+    "City": "Louisville",
+    "State": "KY"
+  },
+  {
+    "Institution": "University of Maine",
+    "Control": "Public",
+    "City": "Orono",
+    "State": "ME"
+  },
+  {
+    "Institution": "University of Maryland, Baltimore County",
+    "Control": "Public",
+    "City": "Baltimore[m]",
+    "State": "MD"
+  },
+  {
+    "Institution": "University of Maryland, College Park",
+    "Control": "Public",
+    "City": "College Park",
+    "State": "MD"
+  },
+  {
+    "Institution": "University of Massachusetts Amherst",
+    "Control": "Public",
+    "City": "Amherst",
+    "State": "MA"
+  },
+  {
+    "Institution": "University of Memphis",
+    "Control": "Public",
+    "City": "Memphis",
+    "State": "TN"
+  },
+  {
+    "Institution": "University of Miami",
+    "Control": "Private (non-profit)",
+    "City": "Coral Gables",
+    "State": "FL"
+  },
+  {
+    "Institution": "University of Michigan",
+    "Control": "Public",
+    "City": "Ann Arbor",
+    "State": "MI"
+  },
+  {
+    "Institution": "University of Minnesota",
+    "Control": "Public",
+    "City": "Minneapolis",
+    "State": "MN"
+  },
+  {
+    "Institution": "University of Mississippi",
+    "Control": "Public",
+    "City": "University",
+    "State": "MS"
+  },
+  {
+    "Institution": "University of Missouri",
+    "Control": "Public",
+    "City": "Columbia",
+    "State": "MO"
+  },
+  {
+    "Institution": "University of Montana",
+    "Control": "Public",
+    "City": "Missoula",
+    "State": "MT"
+  },
+  {
+    "Institution": "University of Nebraska–Lincoln",
+    "Control": "Public",
+    "City": "Lincoln",
+    "State": "NE"
+  },
+  {
+    "Institution": "University of Nevada, Las Vegas",
+    "Control": "Public",
+    "City": "Las Vegas[n]",
+    "State": "NV"
+  },
+  {
+    "Institution": "University of Nevada, Reno",
+    "Control": "Public",
+    "City": "Reno",
+    "State": "NV"
+  },
+  {
+    "Institution": "University of New Hampshire",
+    "Control": "Public",
+    "City": "Durham",
+    "State": "NH"
+  },
+  {
+    "Institution": "University of New Mexico",
+    "Control": "Public",
+    "City": "Albuquerque",
+    "State": "NM"
+  },
+  {
+    "Institution": "University of North Carolina at Chapel Hill",
+    "Control": "Public",
+    "City": "Chapel Hill",
+    "State": "NC"
+  },
+  {
+    "Institution": "University of North Texas",
+    "Control": "Public",
+    "City": "Denton",
+    "State": "TX"
+  },
+  {
+    "Institution": "University of Notre Dame",
+    "Control": "Private (non-profit)",
+    "City": "Notre Dame",
+    "State": "IN"
+  },
+  {
+    "Institution": "University of Oklahoma",
+    "Control": "Public",
+    "City": "Norman",
+    "State": "OK"
+  },
+  {
+    "Institution": "University of Oregon",
+    "Control": "Public",
+    "City": "Eugene",
+    "State": "OR"
+  },
+  {
+    "Institution": "University of Pennsylvania",
+    "Control": "Private (non-profit)",
+    "City": "Philadelphia",
+    "State": "PA"
+  },
+  {
+    "Institution": "University of Pittsburgh",
+    "Control": "Public[f]",
+    "City": "Pittsburgh",
+    "State": "PA"
+  },
+  {
+    "Institution": "University of Rochester",
+    "Control": "Private (non-profit)",
+    "City": "Rochester",
+    "State": "NY"
+  },
+  {
+    "Institution": "University of South Carolina",
+    "Control": "Public",
+    "City": "Columbia",
+    "State": "SC"
+  },
+  {
+    "Institution": "University of South Florida",
+    "Control": "Public",
+    "City": "Tampa",
+    "State": "FL"
+  },
+  {
+    "Institution": "University of Southern California",
+    "Control": "Private (non-profit)",
+    "City": "Los Angeles",
+    "State": "CA"
+  },
+  {
+    "Institution": "University of Southern Mississippi",
+    "Control": "Public",
+    "City": "Hattiesburg",
+    "State": "MS"
+  },
+  {
+    "Institution": "University of Tennessee",
+    "Control": "Public",
+    "City": "Knoxville",
+    "State": "TN"
+  },
+  {
+    "Institution": "University of Texas at Arlington",
+    "Control": "Public",
+    "City": "Arlington",
+    "State": "TX"
+  },
+  {
+    "Institution": "University of Texas at Austin",
+    "Control": "Public",
+    "City": "Austin",
+    "State": "TX"
+  },
+  {
+    "Institution": "University of Texas at Dallas",
+    "Control": "Public",
+    "City": "Richardson",
+    "State": "TX"
+  },
+  {
+    "Institution": "University of Texas at El Paso",
+    "Control": "Public",
+    "City": "El Paso",
+    "State": "TX"
+  },
+  {
+    "Institution": "University of Texas at San Antonio",
+    "Control": "Public",
+    "City": "San Antonio",
+    "State": "TX"
+  },
+  {
+    "Institution": "University of Utah",
+    "Control": "Public",
+    "City": "Salt Lake City",
+    "State": "UT"
+  },
+  {
+    "Institution": "University of Virginia",
+    "Control": "Public",
+    "City": "Charlottesville",
+    "State": "VA"
+  },
+  {
+    "Institution": "University of Washington",
+    "Control": "Public",
+    "City": "Seattle",
+    "State": "WA"
+  },
+  {
+    "Institution": "University of Wisconsin–Madison",
+    "Control": "Public",
+    "City": "Madison",
+    "State": "WI"
+  },
+  {
+    "Institution": "University of Wisconsin–Milwaukee",
+    "Control": "Public",
+    "City": "Milwaukee",
+    "State": "WI"
+  },
+  {
+    "Institution": "Utah State University",
+    "Control": "Public",
+    "City": "Logan",
+    "State": "UT"
+  },
+  {
+    "Institution": "Vanderbilt University",
+    "Control": "Private (non-profit)",
+    "City": "Nashville",
+    "State": "TN"
+  },
+  {
+    "Institution": "Virginia Commonwealth University",
+    "Control": "Public",
+    "City": "Richmond",
+    "State": "VA"
+  },
+  {
+    "Institution": "Virginia Tech",
+    "Control": "Public",
+    "City": "Blacksburg",
+    "State": "VA"
+  },
+  {
+    "Institution": "Washington State University",
+    "Control": "Public",
+    "City": "Pullman",
+    "State": "WA"
+  },
+  {
+    "Institution": "Washington University in St. Louis",
+    "Control": "Private (non-profit)",
+    "City": "St. Louis",
+    "State": "MO"
+  },
+  {
+    "Institution": "Wayne State University",
+    "Control": "Public",
+    "City": "Detroit",
+    "State": "MI"
+  },
+  {
+    "Institution": "West Virginia University",
+    "Control": "Public",
+    "City": "Morgantown",
+    "State": "WV"
+  },
+  {
+    "Institution": "Yale University",
+    "Control": "Private (non-profit)",
+    "City": "New Haven",
+    "State": "CT"
+  }
+]
