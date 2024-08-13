@@ -1,0 +1,1 @@
+fetch('https://raw.githubusercontent.com/refaat31/unifo/main/data/final/r1_cleaned_final.json').then(x => x.text()).then(y=> document.getElementById('display').innerText=y)

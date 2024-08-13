@@ -1,1 +1,163 @@
-[{"Institution":"Albert Einstein College of Medicine","Control":"Private (non-profit)","City":"Bronx","State":"NY","Category":"Special Focus"},{"Institution":"Baylor College of Medicine","Control":"Private (non-profit)","City":"Houston","State":"TX","Category":"Special Focus"},{"Institution":"Icahn School of Medicine at Mount Sinai","Control":"Private (non-profit)","City":"New York","State":"NY","Category":"Special Focus"},{"Institution":"Mayo Clinic College of Medicine and Science","Control":"Private (non-profit)","City":"Rochester","State":"MN","Category":"Special Focus"},{"Institution":"Medical College of Wisconsin","Control":"Private (non-profit)","City":"Milwaukee","State":"WI","Category":"Special Focus"},{"Institution":"Medical University of South Carolina","Control":"Public","City":"Charleston","State":"SC","Category":"Special Focus"},{"Institution":"Oregon Health & Science University","Control":"Public","City":"Portland","State":"OR","Category":"Special Focus"},{"Institution":"Rockefeller University","Control":"Private (non-profit)","City":"New York","State":"NY","Category":"Special Focus"},{"Institution":"Texas Tech University Health Sciences Center","Control":"Public","City":"Lubbock","State":"TX","Category":"Special Focus"},{"Institution":"Uniformed Services University of the Health Sciences","Control":"Public","City":"Bethesda","State":"MD","Category":"Special Focus"},{"Institution":"University of Arkansas for Medical Sciences","Control":"Public","City":"Little Rock","State":"AR","Category":"Special Focus"},{"Institution":"University of California, San Francisco","Control":"Public","City":"San Francisco","State":"CA","Category":"Special Focus"},{"Institution":"University of Maryland, Baltimore","Control":"Public","City":"Baltimore","State":"MD","Category":"Special Focus"},{"Institution":"University of Massachusetts Chan Medical School","Control":"Public","City":"Worcester","State":"MA","Category":"Special Focus"},{"Institution":"University of Nebraska Medical Center","Control":"Public","City":"Omaha","State":"NE","Category":"Special Focus"},{"Institution":"University of Oklahoma Health Sciences Center","Control":"Public","City":"Oklahoma City","State":"OK","Category":"Special Focus"},{"Institution":"University of Tennessee Health Science Center","Control":"Public","City":"Memphis","State":"TN","Category":"Special Focus"},{"Institution":"University of Texas Health Science Center at Houston","Control":"Public","City":"Houston","State":"TX","Category":"Special Focus"},{"Institution":"University of Texas Health Science Center at San Antonio","Control":"Public","City":"San Antonio","State":"TX","Category":"Special Focus"},{"Institution":"University of Texas Medical Branch","Control":"Public","City":"Galveston","State":"TX","Category":"Special Focus"},{"Institution":"University of Texas Southwestern Medical Center","Control":"Public","City":"Dallas","State":"TX","Category":"Special Focus"},{"Institution":"Virginia Health Sciences","Control":"Public","City":"Norfolk","State":"VA","Category":"Special Focus"},{"Institution":"Weill Cornell Medicine","Control":"Private (non-profit)","City":"New York","State":"NY","Category":"Special Focus"}]
+[
+  {
+    "Institution": "Albert Einstein College of Medicine",
+    "Control": "Private (non-profit)",
+    "City": "Bronx",
+    "State": "NY",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "Baylor College of Medicine",
+    "Control": "Private (non-profit)",
+    "City": "Houston",
+    "State": "TX",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "Icahn School of Medicine at Mount Sinai",
+    "Control": "Private (non-profit)",
+    "City": "New York",
+    "State": "NY",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "Mayo Clinic College of Medicine and Science",
+    "Control": "Private (non-profit)",
+    "City": "Rochester",
+    "State": "MN",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "Medical College of Wisconsin",
+    "Control": "Private (non-profit)",
+    "City": "Milwaukee",
+    "State": "WI",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "Medical University of South Carolina",
+    "Control": "Public",
+    "City": "Charleston",
+    "State": "SC",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "Oregon Health & Science University",
+    "Control": "Public",
+    "City": "Portland",
+    "State": "OR",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "Rockefeller University",
+    "Control": "Private (non-profit)",
+    "City": "New York",
+    "State": "NY",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "Texas Tech University Health Sciences Center",
+    "Control": "Public",
+    "City": "Lubbock",
+    "State": "TX",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "Uniformed Services University of the Health Sciences",
+    "Control": "Public",
+    "City": "Bethesda",
+    "State": "MD",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "University of Arkansas for Medical Sciences",
+    "Control": "Public",
+    "City": "Little Rock",
+    "State": "AR",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "University of California, San Francisco",
+    "Control": "Public",
+    "City": "San Francisco",
+    "State": "CA",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "University of Maryland, Baltimore",
+    "Control": "Public",
+    "City": "Baltimore",
+    "State": "MD",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "University of Massachusetts Chan Medical School",
+    "Control": "Public",
+    "City": "Worcester",
+    "State": "MA",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "University of Nebraska Medical Center",
+    "Control": "Public",
+    "City": "Omaha",
+    "State": "NE",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "University of Oklahoma Health Sciences Center",
+    "Control": "Public",
+    "City": "Oklahoma City",
+    "State": "OK",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "University of Tennessee Health Science Center",
+    "Control": "Public",
+    "City": "Memphis",
+    "State": "TN",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "University of Texas Health Science Center at Houston",
+    "Control": "Public",
+    "City": "Houston",
+    "State": "TX",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "University of Texas Health Science Center at San Antonio",
+    "Control": "Public",
+    "City": "San Antonio",
+    "State": "TX",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "University of Texas Medical Branch",
+    "Control": "Public",
+    "City": "Galveston",
+    "State": "TX",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "University of Texas Southwestern Medical Center",
+    "Control": "Public",
+    "City": "Dallas",
+    "State": "TX",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "Virginia Health Sciences",
+    "Control": "Public",
+    "City": "Norfolk",
+    "State": "VA",
+    "Category": "Special Focus"
+  },
+  {
+    "Institution": "Weill Cornell Medicine",
+    "Control": "Private (non-profit)",
+    "City": "New York",
+    "State": "NY",
+    "Category": "Special Focus"
+  }
+]
